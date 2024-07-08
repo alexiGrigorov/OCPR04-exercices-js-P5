@@ -2,11 +2,11 @@
 
 Appliquez des styles CSS sur le fichier HTML :
 
-1. Définir une **couleur** d'arrière-plan différente pour chaque élément: 
-    - `header` : `#FFCC99`, 
-    - `main` : `#E6F2FF`, 
-    - `aside` `#B3D9FF`:, 
-    - `footer` : `#99CC99` ) ;
+1. Définir une **couleur** d'arrière-plan différente pour chaque élément:
+   - `header` : `#FFCC99`,
+   - `main` : `#E6F2FF`,
+   - `aside` `#B3D9FF`:,
+   - `footer` : `#99CC99` ;
 2. Mettre en **gras** et **centrer** le texte du titre dans l'en-tête ;
 3. Ajouter une **marge** de 20 pixels autour de la section principale ;
 4. Utiliser **Flexbox** pour disposer la barre latérale à gauche et le contenu principal à droite (`aside : flex 1` et `section : flex 3`) ;

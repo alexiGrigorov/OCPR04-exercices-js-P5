@@ -1,0 +1,9 @@
+$blue: #007bff;
+
+ul {
+  & li {
+    color: $blue;
+    padding-left: 10px;
+    margin-bottom: 15px;
+  }
+}
